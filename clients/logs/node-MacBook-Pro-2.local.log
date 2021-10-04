@@ -1,0 +1,983 @@
+[INFO ] 2021-09-24T16:47:52,909 [Thread-1 (ActiveMQ-client-factory-threads-1983706553)] RPCClientProxyHandler - RPC server available.
+[INFO ] 2021-09-24T16:48:14,038 [main] Starter - Starting Starter on MacBook-Pro-2.local with PID 30906 (/Users/sajinsamuel/Desktop/github-repositories/R3PaidPilotBlockchain/clients/build/classes/java/main started by sajinsamuel in /Users/sajinsamuel/Desktop/github-repositories/R3PaidPilotBlockchain/clients)
+[INFO ] 2021-09-24T16:48:14,050 [main] Starter - No active profile set, falling back to default profiles: default
+[INFO ] 2021-09-24T16:48:14,159 [main] AnnotationConfigServletWebServerApplicationContext - Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@32c726ee: startup date [Fri Sep 24 12:48:14 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:48:17,181 [main] Starter - Starting Starter on MacBook-Pro-2.local with PID 30907 (/Users/sajinsamuel/Desktop/github-repositories/R3PaidPilotBlockchain/clients/build/classes/java/main started by sajinsamuel in /Users/sajinsamuel/Desktop/github-repositories/R3PaidPilotBlockchain/clients)
+[INFO ] 2021-09-24T16:48:17,190 [main] Starter - No active profile set, falling back to default profiles: default
+[INFO ] 2021-09-24T16:48:17,407 [main] AnnotationConfigServletWebServerApplicationContext - Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@22f31dec: startup date [Fri Sep 24 12:48:17 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:48:17,585 [main] TomcatWebServer - Tomcat initialized with port(s): 10070 (http)
+[INFO ] 2021-09-24T16:48:17,619 [main] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-10070"]
+[INFO ] 2021-09-24T16:48:17,685 [main] StandardService - Starting service [Tomcat]
+[INFO ] 2021-09-24T16:48:17,686 [main] StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.31
+[INFO ] 2021-09-24T16:48:17,738 [localhost-startStop-1] AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/sajinsamuel/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+[INFO ] 2021-09-24T16:48:18,099 [localhost-startStop-1] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2021-09-24T16:48:18,099 [localhost-startStop-1] ContextLoader - Root WebApplicationContext: initialization completed in 3945 ms
+[INFO ] 2021-09-24T16:48:18,953 [localhost-startStop-1] ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+[INFO ] 2021-09-24T16:48:18,964 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+[INFO ] 2021-09-24T16:48:18,964 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+[INFO ] 2021-09-24T16:48:18,965 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+[INFO ] 2021-09-24T16:48:18,965 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+[INFO ] 2021-09-24T16:48:20,594 [main] Starter - Starting Starter on MacBook-Pro-2.local with PID 30908 (/Users/sajinsamuel/Desktop/github-repositories/R3PaidPilotBlockchain/clients/build/classes/java/main started by sajinsamuel in /Users/sajinsamuel/Desktop/github-repositories/R3PaidPilotBlockchain/clients)
+[INFO ] 2021-09-24T16:48:20,601 [main] Starter - No active profile set, falling back to default profiles: default
+[INFO ] 2021-09-24T16:48:21,077 [main] AnnotationConfigServletWebServerApplicationContext - Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@22f31dec: startup date [Fri Sep 24 12:48:21 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:48:22,964 [main] Starter - Starting Starter on MacBook-Pro-2.local with PID 30909 (/Users/sajinsamuel/Desktop/github-repositories/R3PaidPilotBlockchain/clients/build/classes/java/main started by sajinsamuel in /Users/sajinsamuel/Desktop/github-repositories/R3PaidPilotBlockchain/clients)
+[INFO ] 2021-09-24T16:48:22,979 [main] Starter - No active profile set, falling back to default profiles: default
+[INFO ] 2021-09-24T16:48:23,030 [main] Starter - Starting Starter on MacBook-Pro-2.local with PID 30910 (/Users/sajinsamuel/Desktop/github-repositories/R3PaidPilotBlockchain/clients/build/classes/java/main started by sajinsamuel in /Users/sajinsamuel/Desktop/github-repositories/R3PaidPilotBlockchain/clients)
+[INFO ] 2021-09-24T16:48:23,097 [main] Starter - No active profile set, falling back to default profiles: default
+[INFO ] 2021-09-24T16:48:23,280 [main] AnnotationConfigServletWebServerApplicationContext - Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@22f31dec: startup date [Fri Sep 24 12:48:23 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:48:23,386 [main] AnnotationConfigServletWebServerApplicationContext - Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@22f31dec: startup date [Fri Sep 24 12:48:23 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:48:23,665 [main] Starter - Starting Starter on MacBook-Pro-2.local with PID 30911 (/Users/sajinsamuel/Desktop/github-repositories/R3PaidPilotBlockchain/clients/build/classes/java/main started by sajinsamuel in /Users/sajinsamuel/Desktop/github-repositories/R3PaidPilotBlockchain/clients)
+[INFO ] 2021-09-24T16:48:23,722 [main] Starter - No active profile set, falling back to default profiles: default
+[INFO ] 2021-09-24T16:48:23,902 [main] AnnotationConfigServletWebServerApplicationContext - Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@32c726ee: startup date [Fri Sep 24 12:48:23 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:48:24,001 [main] TomcatWebServer - Tomcat initialized with port(s): 10080 (http)
+[INFO ] 2021-09-24T16:48:24,034 [main] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-10080"]
+[INFO ] 2021-09-24T16:48:24,144 [main] StandardService - Starting service [Tomcat]
+[INFO ] 2021-09-24T16:48:24,145 [main] StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.31
+[INFO ] 2021-09-24T16:48:24,217 [localhost-startStop-1] AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/sajinsamuel/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+[INFO ] 2021-09-24T16:48:24,649 [localhost-startStop-1] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2021-09-24T16:48:24,649 [localhost-startStop-1] ContextLoader - Root WebApplicationContext: initialization completed in 7248 ms
+[INFO ] 2021-09-24T16:48:25,587 [localhost-startStop-1] ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+[INFO ] 2021-09-24T16:48:25,593 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+[INFO ] 2021-09-24T16:48:25,594 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+[INFO ] 2021-09-24T16:48:25,595 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+[INFO ] 2021-09-24T16:48:25,595 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+[INFO ] 2021-09-24T16:48:28,134 [main] TomcatWebServer - Tomcat initialized with port(s): 10130 (http)
+[INFO ] 2021-09-24T16:48:28,390 [main] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-10130"]
+[INFO ] 2021-09-24T16:48:28,458 [main] StandardService - Starting service [Tomcat]
+[INFO ] 2021-09-24T16:48:28,459 [main] StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.31
+[INFO ] 2021-09-24T16:48:28,475 [localhost-startStop-1] AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/sajinsamuel/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+[INFO ] 2021-09-24T16:48:29,025 [localhost-startStop-1] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2021-09-24T16:48:29,026 [localhost-startStop-1] ContextLoader - Root WebApplicationContext: initialization completed in 7956 ms
+[INFO ] 2021-09-24T16:48:29,140 [main] RPCClient - Startup took 5987 msec
+[INFO ] 2021-09-24T16:48:29,485 [main] TomcatWebServer - Tomcat initialized with port(s): 10120 (http)
+[INFO ] 2021-09-24T16:48:29,558 [main] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-10120"]
+[INFO ] 2021-09-24T16:48:29,613 [main] StandardService - Starting service [Tomcat]
+[INFO ] 2021-09-24T16:48:29,614 [main] StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.31
+[INFO ] 2021-09-24T16:48:29,642 [main] TomcatWebServer - Tomcat initialized with port(s): 10090 (http)
+[INFO ] 2021-09-24T16:48:29,667 [localhost-startStop-1] AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/sajinsamuel/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+[INFO ] 2021-09-24T16:48:29,785 [localhost-startStop-1] ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+[INFO ] 2021-09-24T16:48:29,798 [main] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-10090"]
+[INFO ] 2021-09-24T16:48:29,827 [main] StandardService - Starting service [Tomcat]
+[INFO ] 2021-09-24T16:48:29,828 [main] StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.31
+[INFO ] 2021-09-24T16:48:29,831 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+[INFO ] 2021-09-24T16:48:29,832 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+[INFO ] 2021-09-24T16:48:29,833 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+[INFO ] 2021-09-24T16:48:29,834 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+[INFO ] 2021-09-24T16:48:29,845 [localhost-startStop-1] AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/sajinsamuel/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+[INFO ] 2021-09-24T16:48:30,091 [localhost-startStop-1] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2021-09-24T16:48:30,091 [localhost-startStop-1] ContextLoader - Root WebApplicationContext: initialization completed in 6887 ms
+[INFO ] 2021-09-24T16:48:30,286 [localhost-startStop-1] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2021-09-24T16:48:30,287 [localhost-startStop-1] ContextLoader - Root WebApplicationContext: initialization completed in 6905 ms
+[INFO ] 2021-09-24T16:48:30,287 [main] TomcatWebServer - Tomcat initialized with port(s): 10140 (http)
+[INFO ] 2021-09-24T16:48:30,406 [main] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-10140"]
+[INFO ] 2021-09-24T16:48:30,448 [main] StandardService - Starting service [Tomcat]
+[INFO ] 2021-09-24T16:48:30,454 [main] StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.31
+[INFO ] 2021-09-24T16:48:30,518 [localhost-startStop-1] AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/sajinsamuel/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+[INFO ] 2021-09-24T16:48:31,012 [localhost-startStop-1] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2021-09-24T16:48:31,012 [localhost-startStop-1] ContextLoader - Root WebApplicationContext: initialization completed in 7114 ms
+[INFO ] 2021-09-24T16:48:31,029 [localhost-startStop-1] ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+[INFO ] 2021-09-24T16:48:31,113 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+[INFO ] 2021-09-24T16:48:31,114 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+[INFO ] 2021-09-24T16:48:31,117 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+[INFO ] 2021-09-24T16:48:31,119 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+[INFO ] 2021-09-24T16:48:31,498 [localhost-startStop-1] ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+[INFO ] 2021-09-24T16:48:31,542 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+[INFO ] 2021-09-24T16:48:31,543 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+[INFO ] 2021-09-24T16:48:31,543 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+[INFO ] 2021-09-24T16:48:31,544 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+[INFO ] 2021-09-24T16:48:32,556 [localhost-startStop-1] ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+[INFO ] 2021-09-24T16:48:32,663 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+[INFO ] 2021-09-24T16:48:32,664 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+[INFO ] 2021-09-24T16:48:32,665 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+[INFO ] 2021-09-24T16:48:32,666 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+[INFO ] 2021-09-24T16:48:33,546 [main] SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:48:35,412 [main] RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@32c726ee: startup date [Fri Sep 24 12:48:14 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:48:36,731 [main] RequestMappingHandlerMapping - Mapped "{[/addresses],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.addresses()
+[INFO ] 2021-09-24T16:48:36,733 [main] RequestMappingHandlerMapping - Mapped "{[/states],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.states()
+[INFO ] 2021-09-24T16:48:36,733 [main] RequestMappingHandlerMapping - Mapped "{[/flows],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.flows()
+[INFO ] 2021-09-24T16:48:36,734 [main] RequestMappingHandlerMapping - Mapped "{[/notaries],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.notaries()
+[INFO ] 2021-09-24T16:48:36,735 [main] RequestMappingHandlerMapping - Mapped "{[/peers],methods=[GET],produces=[application/json]}" onto public java.util.HashMap<java.lang.String, java.util.List<java.lang.String>> net.corda.parsedata.client.webserver.Controller.getPeers()
+[INFO ] 2021-09-24T16:48:36,735 [main] RequestMappingHandlerMapping - Mapped "{[/servertime],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.serverTime()
+[INFO ] 2021-09-24T16:48:36,736 [main] RequestMappingHandlerMapping - Mapped "{[/identities],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.identities()
+[INFO ] 2021-09-24T16:48:36,737 [main] RequestMappingHandlerMapping - Mapped "{[/platformversion],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.platformVersion()
+[INFO ] 2021-09-24T16:48:36,738 [main] RequestMappingHandlerMapping - Mapped "{[/me],methods=[GET],produces=[application/json]}" onto private java.util.HashMap<java.lang.String, java.lang.String> net.corda.parsedata.client.webserver.Controller.whoami()
+[INFO ] 2021-09-24T16:48:36,743 [main] RequestMappingHandlerMapping - Mapped "{[/issueTokens],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.issueTokens(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:48:36,744 [main] RequestMappingHandlerMapping - Mapped "{[/createAccount],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.createNewAccount(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:48:36,746 [main] RequestMappingHandlerMapping - Mapped "{[/shareAccountInfo],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.shareAccountTo(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:48:36,749 [main] RequestMappingHandlerMapping - Mapped "{[/sendEnergyTokens],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.sendEnergyTokens(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:48:36,750 [main] RequestMappingHandlerMapping - Mapped "{[/accountTokenBalance],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.getAccountBalance(java.lang.String) throws java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:48:36,752 [main] RequestMappingHandlerMapping - Mapped "{[/sendfromaccount],methods=[POST],consumes=[application/json],produces=[text/plain]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.a2aTokenTransferFlow(java.lang.String) throws java.io.IOException,java.lang.InterruptedException,java.util.concurrent.ExecutionException
+[INFO ] 2021-09-24T16:48:36,754 [main] RequestMappingHandlerMapping - Mapped "{[/networkmap],methods=[GET],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> net.corda.parsedata.client.webserver.Controller.getNodeList()
+[INFO ] 2021-09-24T16:48:36,755 [main] RequestMappingHandlerMapping - Mapped "{[/nodeTokenBalance],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.getNodeBalance()
+[INFO ] 2021-09-24T16:48:36,756 [main] RequestMappingHandlerMapping - Mapped "{[/transactionDetails],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.getTransactionDetails(java.lang.String) throws java.io.IOException,java.lang.NoSuchFieldException,java.sql.SQLException,java.lang.IllegalAccessException
+[INFO ] 2021-09-24T16:48:36,757 [main] RequestMappingHandlerMapping - Mapped "{[/queryByDataHash],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.queryByDataHash(java.lang.String) throws java.lang.NoSuchFieldException,java.io.IOException
+[INFO ] 2021-09-24T16:48:37,070 [main] RequestMappingHandlerMapping - Mapped "{[/status],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.status()
+[INFO ] 2021-09-24T16:48:37,073 [main] RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+[INFO ] 2021-09-24T16:48:37,074 [main] RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+[INFO ] 2021-09-24T16:48:37,236 [main] SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:48:37,237 [main] SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:48:37,647 [main] WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+[INFO ] 2021-09-24T16:48:37,971 [main] RPCClient - Startup took 8606 msec
+[INFO ] 2021-09-24T16:48:38,667 [main] AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2021-09-24T16:48:38,739 [main] Http11NioProtocol - Starting ProtocolHandler ["http-nio-10070"]
+[ERROR] 2021-09-24T16:48:38,756 [main] StandardService - Failed to start connector [Connector[HTTP/1.1-10070]]
+org.apache.catalina.LifecycleException: Failed to start component [Connector[HTTP/1.1-10070]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225) [tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:256) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:198) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:300) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:162) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:553) [spring-context-5.0.6.RELEASE.jar:5.0.6.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:759) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:395) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:327) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at net.corda.parsedata.client.webserver.Starter.main(Starter.java:55) [main/:?]
+Caused by: org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1020) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	... 11 more
+Caused by: java.net.BindException: Address already in use
+	at sun.nio.ch.Net.bind0(Native Method) ~[?:1.8.0_271]
+	at sun.nio.ch.Net.bind(Net.java:444) ~[?:1.8.0_271]
+	at sun.nio.ch.Net.bind(Net.java:436) ~[?:1.8.0_271]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:225) ~[?:1.8.0_271]
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74) ~[?:1.8.0_271]
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1150) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:591) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1018) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	... 11 more
+[INFO ] 2021-09-24T16:48:38,787 [main] Http11NioProtocol - Pausing ProtocolHandler ["http-nio-10070"]
+[INFO ] 2021-09-24T16:48:38,787 [main] StandardService - Stopping service [Tomcat]
+[INFO ] 2021-09-24T16:48:38,802 [main] LifecycleBase - The stop() method was called on component [StandardServer[-1]] after stop() had already been called. The second call will be ignored.
+[INFO ] 2021-09-24T16:48:38,803 [main] Http11NioProtocol - Stopping ProtocolHandler ["http-nio-10070"]
+[INFO ] 2021-09-24T16:48:38,803 [main] Http11NioProtocol - Destroying ProtocolHandler ["http-nio-10070"]
+[INFO ] 2021-09-24T16:48:38,810 [main] ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[ERROR] 2021-09-24T16:48:38,813 [main] LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 10070 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 10070, or configure this application to listen on another port.
+
+[INFO ] 2021-09-24T16:48:38,816 [main] AnnotationConfigServletWebServerApplicationContext - Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@32c726ee: startup date [Fri Sep 24 12:48:14 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:48:38,881 [main] AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2021-09-24T16:48:40,373 [main] SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:48:40,783 [main] RPCClient - Startup took 6334 msec
+[INFO ] 2021-09-24T16:48:40,869 [main] RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@22f31dec: startup date [Fri Sep 24 12:48:17 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:48:41,459 [main] RequestMappingHandlerMapping - Mapped "{[/states],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.states()
+[INFO ] 2021-09-24T16:48:41,461 [main] RequestMappingHandlerMapping - Mapped "{[/servertime],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.serverTime()
+[INFO ] 2021-09-24T16:48:41,483 [main] RequestMappingHandlerMapping - Mapped "{[/identities],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.identities()
+[INFO ] 2021-09-24T16:48:41,484 [main] RequestMappingHandlerMapping - Mapped "{[/platformversion],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.platformVersion()
+[INFO ] 2021-09-24T16:48:41,485 [main] RequestMappingHandlerMapping - Mapped "{[/peers],methods=[GET],produces=[application/json]}" onto public java.util.HashMap<java.lang.String, java.util.List<java.lang.String>> net.corda.parsedata.client.webserver.Controller.getPeers()
+[INFO ] 2021-09-24T16:48:41,486 [main] RequestMappingHandlerMapping - Mapped "{[/notaries],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.notaries()
+[INFO ] 2021-09-24T16:48:41,487 [main] RequestMappingHandlerMapping - Mapped "{[/flows],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.flows()
+[INFO ] 2021-09-24T16:48:41,491 [main] RequestMappingHandlerMapping - Mapped "{[/me],methods=[GET],produces=[application/json]}" onto private java.util.HashMap<java.lang.String, java.lang.String> net.corda.parsedata.client.webserver.Controller.whoami()
+[INFO ] 2021-09-24T16:48:41,492 [main] RequestMappingHandlerMapping - Mapped "{[/issueTokens],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.issueTokens(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:48:41,493 [main] RequestMappingHandlerMapping - Mapped "{[/createAccount],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.createNewAccount(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:48:41,494 [main] RequestMappingHandlerMapping - Mapped "{[/shareAccountInfo],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.shareAccountTo(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:48:41,494 [main] RequestMappingHandlerMapping - Mapped "{[/sendEnergyTokens],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.sendEnergyTokens(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:48:41,495 [main] RequestMappingHandlerMapping - Mapped "{[/accountTokenBalance],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.getAccountBalance(java.lang.String) throws java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:48:41,496 [main] RequestMappingHandlerMapping - Mapped "{[/sendfromaccount],methods=[POST],consumes=[application/json],produces=[text/plain]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.a2aTokenTransferFlow(java.lang.String) throws java.io.IOException,java.lang.InterruptedException,java.util.concurrent.ExecutionException
+[INFO ] 2021-09-24T16:48:41,498 [main] RequestMappingHandlerMapping - Mapped "{[/networkmap],methods=[GET],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> net.corda.parsedata.client.webserver.Controller.getNodeList()
+[INFO ] 2021-09-24T16:48:41,500 [main] RequestMappingHandlerMapping - Mapped "{[/nodeTokenBalance],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.getNodeBalance()
+[INFO ] 2021-09-24T16:48:41,504 [main] RequestMappingHandlerMapping - Mapped "{[/transactionDetails],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.getTransactionDetails(java.lang.String) throws java.io.IOException,java.lang.NoSuchFieldException,java.sql.SQLException,java.lang.IllegalAccessException
+[INFO ] 2021-09-24T16:48:41,507 [main] RequestMappingHandlerMapping - Mapped "{[/queryByDataHash],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.queryByDataHash(java.lang.String) throws java.lang.NoSuchFieldException,java.io.IOException
+[INFO ] 2021-09-24T16:48:41,508 [main] RequestMappingHandlerMapping - Mapped "{[/addresses],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.addresses()
+[INFO ] 2021-09-24T16:48:41,508 [main] RequestMappingHandlerMapping - Mapped "{[/status],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.status()
+[INFO ] 2021-09-24T16:48:41,516 [main] RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+[INFO ] 2021-09-24T16:48:41,518 [main] RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+[INFO ] 2021-09-24T16:48:41,602 [main] SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:48:41,603 [main] SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:48:41,728 [main] RPCClient - Startup took 3979 msec
+[INFO ] 2021-09-24T16:48:41,805 [main] WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+[INFO ] 2021-09-24T16:48:42,102 [main] RPCClient - Startup took 3952 msec
+[INFO ] 2021-09-24T16:48:42,418 [main] AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2021-09-24T16:48:42,444 [main] Http11NioProtocol - Starting ProtocolHandler ["http-nio-10080"]
+[INFO ] 2021-09-24T16:48:42,465 [main] RPCClient - Startup took 3765 msec
+[ERROR] 2021-09-24T16:48:42,548 [main] StandardService - Failed to start connector [Connector[HTTP/1.1-10080]]
+org.apache.catalina.LifecycleException: Failed to start component [Connector[HTTP/1.1-10080]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225) [tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:256) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:198) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:300) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:162) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:553) [spring-context-5.0.6.RELEASE.jar:5.0.6.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:759) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:395) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:327) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at net.corda.parsedata.client.webserver.Starter.main(Starter.java:55) [main/:?]
+Caused by: org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1020) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	... 11 more
+Caused by: java.net.BindException: Address already in use
+	at sun.nio.ch.Net.bind0(Native Method) ~[?:1.8.0_271]
+	at sun.nio.ch.Net.bind(Net.java:444) ~[?:1.8.0_271]
+	at sun.nio.ch.Net.bind(Net.java:436) ~[?:1.8.0_271]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:225) ~[?:1.8.0_271]
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74) ~[?:1.8.0_271]
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1150) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:591) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1018) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	... 11 more
+[INFO ] 2021-09-24T16:48:42,568 [main] Http11NioProtocol - Pausing ProtocolHandler ["http-nio-10080"]
+[INFO ] 2021-09-24T16:48:42,568 [main] StandardService - Stopping service [Tomcat]
+[INFO ] 2021-09-24T16:48:42,591 [main] LifecycleBase - The stop() method was called on component [StandardServer[-1]] after stop() had already been called. The second call will be ignored.
+[INFO ] 2021-09-24T16:48:42,597 [main] Http11NioProtocol - Stopping ProtocolHandler ["http-nio-10080"]
+[INFO ] 2021-09-24T16:48:42,598 [main] Http11NioProtocol - Destroying ProtocolHandler ["http-nio-10080"]
+[INFO ] 2021-09-24T16:48:42,602 [main] ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[ERROR] 2021-09-24T16:48:42,611 [main] LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 10080 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 10080, or configure this application to listen on another port.
+
+[INFO ] 2021-09-24T16:48:42,614 [main] AnnotationConfigServletWebServerApplicationContext - Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@22f31dec: startup date [Fri Sep 24 12:48:17 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:48:42,666 [main] AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2021-09-24T16:48:43,593 [main] SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:48:43,964 [main] SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:48:44,119 [main] RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@22f31dec: startup date [Fri Sep 24 12:48:21 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:48:44,279 [main] SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:48:44,450 [main] RequestMappingHandlerMapping - Mapped "{[/status],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.status()
+[INFO ] 2021-09-24T16:48:44,454 [main] RequestMappingHandlerMapping - Mapped "{[/me],methods=[GET],produces=[application/json]}" onto private java.util.HashMap<java.lang.String, java.lang.String> net.corda.parsedata.client.webserver.Controller.whoami()
+[INFO ] 2021-09-24T16:48:44,455 [main] RequestMappingHandlerMapping - Mapped "{[/peers],methods=[GET],produces=[application/json]}" onto public java.util.HashMap<java.lang.String, java.util.List<java.lang.String>> net.corda.parsedata.client.webserver.Controller.getPeers()
+[INFO ] 2021-09-24T16:48:44,456 [main] RequestMappingHandlerMapping - Mapped "{[/flows],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.flows()
+[INFO ] 2021-09-24T16:48:44,457 [main] RequestMappingHandlerMapping - Mapped "{[/notaries],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.notaries()
+[INFO ] 2021-09-24T16:48:44,458 [main] RequestMappingHandlerMapping - Mapped "{[/servertime],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.serverTime()
+[INFO ] 2021-09-24T16:48:44,461 [main] RequestMappingHandlerMapping - Mapped "{[/identities],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.identities()
+[INFO ] 2021-09-24T16:48:44,462 [main] RequestMappingHandlerMapping - Mapped "{[/platformversion],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.platformVersion()
+[INFO ] 2021-09-24T16:48:44,464 [main] RequestMappingHandlerMapping - Mapped "{[/issueTokens],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.issueTokens(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:48:44,465 [main] RequestMappingHandlerMapping - Mapped "{[/createAccount],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.createNewAccount(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:48:44,466 [main] RequestMappingHandlerMapping - Mapped "{[/shareAccountInfo],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.shareAccountTo(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:48:44,476 [main] RequestMappingHandlerMapping - Mapped "{[/sendEnergyTokens],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.sendEnergyTokens(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:48:44,477 [main] RequestMappingHandlerMapping - Mapped "{[/accountTokenBalance],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.getAccountBalance(java.lang.String) throws java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:48:44,481 [main] RequestMappingHandlerMapping - Mapped "{[/sendfromaccount],methods=[POST],consumes=[application/json],produces=[text/plain]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.a2aTokenTransferFlow(java.lang.String) throws java.io.IOException,java.lang.InterruptedException,java.util.concurrent.ExecutionException
+[INFO ] 2021-09-24T16:48:44,481 [main] RequestMappingHandlerMapping - Mapped "{[/networkmap],methods=[GET],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> net.corda.parsedata.client.webserver.Controller.getNodeList()
+[INFO ] 2021-09-24T16:48:44,482 [main] RequestMappingHandlerMapping - Mapped "{[/nodeTokenBalance],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.getNodeBalance()
+[INFO ] 2021-09-24T16:48:44,484 [main] RequestMappingHandlerMapping - Mapped "{[/transactionDetails],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.getTransactionDetails(java.lang.String) throws java.io.IOException,java.lang.NoSuchFieldException,java.sql.SQLException,java.lang.IllegalAccessException
+[INFO ] 2021-09-24T16:48:44,486 [main] RequestMappingHandlerMapping - Mapped "{[/queryByDataHash],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.queryByDataHash(java.lang.String) throws java.lang.NoSuchFieldException,java.io.IOException
+[INFO ] 2021-09-24T16:48:44,486 [main] RequestMappingHandlerMapping - Mapped "{[/states],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.states()
+[INFO ] 2021-09-24T16:48:44,488 [main] RequestMappingHandlerMapping - Mapped "{[/addresses],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.addresses()
+[INFO ] 2021-09-24T16:48:44,520 [main] RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+[INFO ] 2021-09-24T16:48:44,524 [main] RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+[INFO ] 2021-09-24T16:48:44,535 [main] RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@22f31dec: startup date [Fri Sep 24 12:48:23 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:48:44,590 [main] SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:48:44,616 [main] SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:48:44,616 [main] SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:48:44,784 [main] RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@22f31dec: startup date [Fri Sep 24 12:48:23 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:48:44,881 [main] WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+[INFO ] 2021-09-24T16:48:44,960 [main] RequestMappingHandlerMapping - Mapped "{[/servertime],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.serverTime()
+[INFO ] 2021-09-24T16:48:44,968 [main] RequestMappingHandlerMapping - Mapped "{[/identities],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.identities()
+[INFO ] 2021-09-24T16:48:44,971 [main] RequestMappingHandlerMapping - Mapped "{[/platformversion],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.platformVersion()
+[INFO ] 2021-09-24T16:48:44,977 [main] RequestMappingHandlerMapping - Mapped "{[/peers],methods=[GET],produces=[application/json]}" onto public java.util.HashMap<java.lang.String, java.util.List<java.lang.String>> net.corda.parsedata.client.webserver.Controller.getPeers()
+[INFO ] 2021-09-24T16:48:44,978 [main] RequestMappingHandlerMapping - Mapped "{[/notaries],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.notaries()
+[INFO ] 2021-09-24T16:48:44,979 [main] RequestMappingHandlerMapping - Mapped "{[/flows],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.flows()
+[INFO ] 2021-09-24T16:48:44,980 [main] RequestMappingHandlerMapping - Mapped "{[/me],methods=[GET],produces=[application/json]}" onto private java.util.HashMap<java.lang.String, java.lang.String> net.corda.parsedata.client.webserver.Controller.whoami()
+[INFO ] 2021-09-24T16:48:44,981 [main] RequestMappingHandlerMapping - Mapped "{[/issueTokens],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.issueTokens(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:48:44,982 [main] RequestMappingHandlerMapping - Mapped "{[/createAccount],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.createNewAccount(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:48:44,987 [main] RequestMappingHandlerMapping - Mapped "{[/shareAccountInfo],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.shareAccountTo(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:48:44,989 [main] RequestMappingHandlerMapping - Mapped "{[/sendEnergyTokens],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.sendEnergyTokens(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:48:44,994 [main] RequestMappingHandlerMapping - Mapped "{[/accountTokenBalance],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.getAccountBalance(java.lang.String) throws java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:48:44,996 [main] RequestMappingHandlerMapping - Mapped "{[/sendfromaccount],methods=[POST],consumes=[application/json],produces=[text/plain]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.a2aTokenTransferFlow(java.lang.String) throws java.io.IOException,java.lang.InterruptedException,java.util.concurrent.ExecutionException
+[INFO ] 2021-09-24T16:48:44,998 [main] RequestMappingHandlerMapping - Mapped "{[/networkmap],methods=[GET],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> net.corda.parsedata.client.webserver.Controller.getNodeList()
+[INFO ] 2021-09-24T16:48:45,000 [main] RequestMappingHandlerMapping - Mapped "{[/nodeTokenBalance],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.getNodeBalance()
+[INFO ] 2021-09-24T16:48:45,002 [main] RequestMappingHandlerMapping - Mapped "{[/transactionDetails],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.getTransactionDetails(java.lang.String) throws java.io.IOException,java.lang.NoSuchFieldException,java.sql.SQLException,java.lang.IllegalAccessException
+[INFO ] 2021-09-24T16:48:45,003 [main] RequestMappingHandlerMapping - Mapped "{[/queryByDataHash],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.queryByDataHash(java.lang.String) throws java.lang.NoSuchFieldException,java.io.IOException
+[INFO ] 2021-09-24T16:48:45,003 [main] RequestMappingHandlerMapping - Mapped "{[/status],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.status()
+[INFO ] 2021-09-24T16:48:45,005 [main] RequestMappingHandlerMapping - Mapped "{[/states],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.states()
+[INFO ] 2021-09-24T16:48:45,006 [main] RequestMappingHandlerMapping - Mapped "{[/addresses],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.addresses()
+[INFO ] 2021-09-24T16:48:45,014 [main] RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+[INFO ] 2021-09-24T16:48:45,015 [main] RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+[INFO ] 2021-09-24T16:48:45,151 [main] SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:48:45,152 [main] SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:48:45,311 [main] RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@32c726ee: startup date [Fri Sep 24 12:48:23 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:48:45,353 [main] RequestMappingHandlerMapping - Mapped "{[/status],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.status()
+[INFO ] 2021-09-24T16:48:45,355 [main] RequestMappingHandlerMapping - Mapped "{[/addresses],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.addresses()
+[INFO ] 2021-09-24T16:48:45,355 [main] RequestMappingHandlerMapping - Mapped "{[/notaries],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.notaries()
+[INFO ] 2021-09-24T16:48:45,356 [main] RequestMappingHandlerMapping - Mapped "{[/flows],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.flows()
+[INFO ] 2021-09-24T16:48:45,357 [main] RequestMappingHandlerMapping - Mapped "{[/peers],methods=[GET],produces=[application/json]}" onto public java.util.HashMap<java.lang.String, java.util.List<java.lang.String>> net.corda.parsedata.client.webserver.Controller.getPeers()
+[INFO ] 2021-09-24T16:48:45,358 [main] RequestMappingHandlerMapping - Mapped "{[/servertime],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.serverTime()
+[INFO ] 2021-09-24T16:48:45,359 [main] RequestMappingHandlerMapping - Mapped "{[/identities],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.identities()
+[INFO ] 2021-09-24T16:48:45,359 [main] RequestMappingHandlerMapping - Mapped "{[/platformversion],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.platformVersion()
+[INFO ] 2021-09-24T16:48:45,362 [main] RequestMappingHandlerMapping - Mapped "{[/me],methods=[GET],produces=[application/json]}" onto private java.util.HashMap<java.lang.String, java.lang.String> net.corda.parsedata.client.webserver.Controller.whoami()
+[INFO ] 2021-09-24T16:48:45,363 [main] RequestMappingHandlerMapping - Mapped "{[/issueTokens],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.issueTokens(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:48:45,394 [main] RequestMappingHandlerMapping - Mapped "{[/createAccount],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.createNewAccount(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:48:45,396 [main] RequestMappingHandlerMapping - Mapped "{[/shareAccountInfo],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.shareAccountTo(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:48:45,400 [main] RequestMappingHandlerMapping - Mapped "{[/sendEnergyTokens],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.sendEnergyTokens(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:48:45,402 [main] RequestMappingHandlerMapping - Mapped "{[/accountTokenBalance],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.getAccountBalance(java.lang.String) throws java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:48:45,403 [main] RequestMappingHandlerMapping - Mapped "{[/sendfromaccount],methods=[POST],consumes=[application/json],produces=[text/plain]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.a2aTokenTransferFlow(java.lang.String) throws java.io.IOException,java.lang.InterruptedException,java.util.concurrent.ExecutionException
+[INFO ] 2021-09-24T16:48:45,404 [main] RequestMappingHandlerMapping - Mapped "{[/networkmap],methods=[GET],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> net.corda.parsedata.client.webserver.Controller.getNodeList()
+[INFO ] 2021-09-24T16:48:45,405 [main] RequestMappingHandlerMapping - Mapped "{[/nodeTokenBalance],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.getNodeBalance()
+[INFO ] 2021-09-24T16:48:45,408 [main] RequestMappingHandlerMapping - Mapped "{[/transactionDetails],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.getTransactionDetails(java.lang.String) throws java.io.IOException,java.lang.NoSuchFieldException,java.sql.SQLException,java.lang.IllegalAccessException
+[INFO ] 2021-09-24T16:48:45,410 [main] RequestMappingHandlerMapping - Mapped "{[/queryByDataHash],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.queryByDataHash(java.lang.String) throws java.lang.NoSuchFieldException,java.io.IOException
+[INFO ] 2021-09-24T16:48:45,411 [main] RequestMappingHandlerMapping - Mapped "{[/states],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.states()
+[INFO ] 2021-09-24T16:48:45,428 [main] WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+[INFO ] 2021-09-24T16:48:45,445 [main] RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+[INFO ] 2021-09-24T16:48:45,445 [main] RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+[INFO ] 2021-09-24T16:48:45,580 [main] SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:48:45,580 [main] SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:48:45,743 [main] AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2021-09-24T16:48:45,774 [main] RequestMappingHandlerMapping - Mapped "{[/states],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.states()
+[INFO ] 2021-09-24T16:48:45,777 [main] RequestMappingHandlerMapping - Mapped "{[/servertime],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.serverTime()
+[INFO ] 2021-09-24T16:48:45,778 [main] RequestMappingHandlerMapping - Mapped "{[/identities],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.identities()
+[INFO ] 2021-09-24T16:48:45,778 [main] RequestMappingHandlerMapping - Mapped "{[/platformversion],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.platformVersion()
+[INFO ] 2021-09-24T16:48:45,779 [main] RequestMappingHandlerMapping - Mapped "{[/peers],methods=[GET],produces=[application/json]}" onto public java.util.HashMap<java.lang.String, java.util.List<java.lang.String>> net.corda.parsedata.client.webserver.Controller.getPeers()
+[INFO ] 2021-09-24T16:48:45,780 [main] RequestMappingHandlerMapping - Mapped "{[/notaries],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.notaries()
+[INFO ] 2021-09-24T16:48:45,796 [main] Http11NioProtocol - Starting ProtocolHandler ["http-nio-10130"]
+[INFO ] 2021-09-24T16:48:45,780 [main] RequestMappingHandlerMapping - Mapped "{[/flows],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.flows()
+[INFO ] 2021-09-24T16:48:45,820 [main] RequestMappingHandlerMapping - Mapped "{[/me],methods=[GET],produces=[application/json]}" onto private java.util.HashMap<java.lang.String, java.lang.String> net.corda.parsedata.client.webserver.Controller.whoami()
+[INFO ] 2021-09-24T16:48:45,822 [main] RequestMappingHandlerMapping - Mapped "{[/issueTokens],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.issueTokens(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:48:45,824 [main] RequestMappingHandlerMapping - Mapped "{[/createAccount],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.createNewAccount(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:48:45,826 [main] RequestMappingHandlerMapping - Mapped "{[/shareAccountInfo],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.shareAccountTo(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:48:45,826 [main] RequestMappingHandlerMapping - Mapped "{[/sendEnergyTokens],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.sendEnergyTokens(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:48:45,828 [main] RequestMappingHandlerMapping - Mapped "{[/accountTokenBalance],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.getAccountBalance(java.lang.String) throws java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:48:45,838 [main] WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+[INFO ] 2021-09-24T16:48:45,829 [main] RequestMappingHandlerMapping - Mapped "{[/sendfromaccount],methods=[POST],consumes=[application/json],produces=[text/plain]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.a2aTokenTransferFlow(java.lang.String) throws java.io.IOException,java.lang.InterruptedException,java.util.concurrent.ExecutionException
+[INFO ] 2021-09-24T16:48:45,846 [main] RequestMappingHandlerMapping - Mapped "{[/networkmap],methods=[GET],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> net.corda.parsedata.client.webserver.Controller.getNodeList()
+[INFO ] 2021-09-24T16:48:45,847 [main] RequestMappingHandlerMapping - Mapped "{[/nodeTokenBalance],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.getNodeBalance()
+[INFO ] 2021-09-24T16:48:45,849 [main] RequestMappingHandlerMapping - Mapped "{[/transactionDetails],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.getTransactionDetails(java.lang.String) throws java.io.IOException,java.lang.NoSuchFieldException,java.sql.SQLException,java.lang.IllegalAccessException
+[INFO ] 2021-09-24T16:48:45,857 [main] RequestMappingHandlerMapping - Mapped "{[/queryByDataHash],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.queryByDataHash(java.lang.String) throws java.lang.NoSuchFieldException,java.io.IOException
+[INFO ] 2021-09-24T16:48:45,857 [main] RequestMappingHandlerMapping - Mapped "{[/addresses],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.addresses()
+[INFO ] 2021-09-24T16:48:45,858 [main] RequestMappingHandlerMapping - Mapped "{[/status],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.status()
+[INFO ] 2021-09-24T16:48:45,862 [main] RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+[INFO ] 2021-09-24T16:48:45,863 [main] RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+[ERROR] 2021-09-24T16:48:45,869 [main] StandardService - Failed to start connector [Connector[HTTP/1.1-10130]]
+org.apache.catalina.LifecycleException: Failed to start component [Connector[HTTP/1.1-10130]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225) [tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:256) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:198) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:300) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:162) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:553) [spring-context-5.0.6.RELEASE.jar:5.0.6.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:759) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:395) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:327) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at net.corda.parsedata.client.webserver.Starter.main(Starter.java:55) [main/:?]
+Caused by: org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1020) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	... 11 more
+Caused by: java.net.BindException: Address already in use
+	at sun.nio.ch.Net.bind0(Native Method) ~[?:1.8.0_271]
+	at sun.nio.ch.Net.bind(Net.java:444) ~[?:1.8.0_271]
+	at sun.nio.ch.Net.bind(Net.java:436) ~[?:1.8.0_271]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:225) ~[?:1.8.0_271]
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74) ~[?:1.8.0_271]
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1150) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:591) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1018) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	... 11 more
+[INFO ] 2021-09-24T16:48:45,890 [main] Http11NioProtocol - Pausing ProtocolHandler ["http-nio-10130"]
+[INFO ] 2021-09-24T16:48:45,891 [main] StandardService - Stopping service [Tomcat]
+[INFO ] 2021-09-24T16:48:45,915 [main] LifecycleBase - The stop() method was called on component [StandardServer[-1]] after stop() had already been called. The second call will be ignored.
+[INFO ] 2021-09-24T16:48:45,916 [main] Http11NioProtocol - Stopping ProtocolHandler ["http-nio-10130"]
+[INFO ] 2021-09-24T16:48:45,916 [main] Http11NioProtocol - Destroying ProtocolHandler ["http-nio-10130"]
+[INFO ] 2021-09-24T16:48:45,920 [main] ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[ERROR] 2021-09-24T16:48:45,924 [main] LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 10130 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 10130, or configure this application to listen on another port.
+
+[INFO ] 2021-09-24T16:48:45,926 [main] AnnotationConfigServletWebServerApplicationContext - Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@22f31dec: startup date [Fri Sep 24 12:48:21 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:48:45,928 [main] AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2021-09-24T16:48:45,987 [main] SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:48:45,988 [main] SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:48:46,280 [main] WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+[INFO ] 2021-09-24T16:48:46,303 [main] AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2021-09-24T16:48:46,383 [main] Http11NioProtocol - Starting ProtocolHandler ["http-nio-10120"]
+[ERROR] 2021-09-24T16:48:46,498 [main] StandardService - Failed to start connector [Connector[HTTP/1.1-10120]]
+org.apache.catalina.LifecycleException: Failed to start component [Connector[HTTP/1.1-10120]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225) [tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:256) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:198) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:300) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:162) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:553) [spring-context-5.0.6.RELEASE.jar:5.0.6.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:759) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:395) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:327) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at net.corda.parsedata.client.webserver.Starter.main(Starter.java:55) [main/:?]
+Caused by: org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1020) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	... 11 more
+Caused by: java.net.BindException: Address already in use
+	at sun.nio.ch.Net.bind0(Native Method) ~[?:1.8.0_271]
+	at sun.nio.ch.Net.bind(Net.java:444) ~[?:1.8.0_271]
+	at sun.nio.ch.Net.bind(Net.java:436) ~[?:1.8.0_271]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:225) ~[?:1.8.0_271]
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74) ~[?:1.8.0_271]
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1150) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:591) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1018) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	... 11 more
+[INFO ] 2021-09-24T16:48:46,529 [main] Http11NioProtocol - Pausing ProtocolHandler ["http-nio-10120"]
+[INFO ] 2021-09-24T16:48:46,532 [main] StandardService - Stopping service [Tomcat]
+[INFO ] 2021-09-24T16:48:46,551 [main] LifecycleBase - The stop() method was called on component [StandardServer[-1]] after stop() had already been called. The second call will be ignored.
+[INFO ] 2021-09-24T16:48:46,553 [main] Http11NioProtocol - Stopping ProtocolHandler ["http-nio-10120"]
+[INFO ] 2021-09-24T16:48:46,556 [main] Http11NioProtocol - Destroying ProtocolHandler ["http-nio-10120"]
+[INFO ] 2021-09-24T16:48:46,561 [main] ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[ERROR] 2021-09-24T16:48:46,565 [main] LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 10120 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 10120, or configure this application to listen on another port.
+
+[INFO ] 2021-09-24T16:48:46,566 [main] AnnotationConfigServletWebServerApplicationContext - Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@22f31dec: startup date [Fri Sep 24 12:48:23 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:48:46,568 [main] AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2021-09-24T16:48:46,747 [main] AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2021-09-24T16:48:46,804 [main] Http11NioProtocol - Starting ProtocolHandler ["http-nio-10090"]
+[ERROR] 2021-09-24T16:48:46,854 [main] StandardService - Failed to start connector [Connector[HTTP/1.1-10090]]
+org.apache.catalina.LifecycleException: Failed to start component [Connector[HTTP/1.1-10090]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225) [tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:256) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:198) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:300) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:162) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:553) [spring-context-5.0.6.RELEASE.jar:5.0.6.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:759) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:395) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:327) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at net.corda.parsedata.client.webserver.Starter.main(Starter.java:55) [main/:?]
+Caused by: org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1020) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	... 11 more
+Caused by: java.net.BindException: Address already in use
+	at sun.nio.ch.Net.bind0(Native Method) ~[?:1.8.0_271]
+	at sun.nio.ch.Net.bind(Net.java:444) ~[?:1.8.0_271]
+	at sun.nio.ch.Net.bind(Net.java:436) ~[?:1.8.0_271]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:225) ~[?:1.8.0_271]
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74) ~[?:1.8.0_271]
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1150) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:591) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1018) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	... 11 more
+[INFO ] 2021-09-24T16:48:46,873 [main] Http11NioProtocol - Pausing ProtocolHandler ["http-nio-10090"]
+[INFO ] 2021-09-24T16:48:46,874 [main] StandardService - Stopping service [Tomcat]
+[INFO ] 2021-09-24T16:48:46,897 [main] LifecycleBase - The stop() method was called on component [StandardServer[-1]] after stop() had already been called. The second call will be ignored.
+[INFO ] 2021-09-24T16:48:46,899 [main] Http11NioProtocol - Stopping ProtocolHandler ["http-nio-10090"]
+[INFO ] 2021-09-24T16:48:46,899 [main] Http11NioProtocol - Destroying ProtocolHandler ["http-nio-10090"]
+[INFO ] 2021-09-24T16:48:46,910 [main] ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[ERROR] 2021-09-24T16:48:46,957 [main] LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 10090 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 10090, or configure this application to listen on another port.
+
+[INFO ] 2021-09-24T16:48:46,960 [main] AnnotationConfigServletWebServerApplicationContext - Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@22f31dec: startup date [Fri Sep 24 12:48:23 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:48:46,966 [main] AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2021-09-24T16:48:47,088 [main] AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2021-09-24T16:48:47,207 [main] Http11NioProtocol - Starting ProtocolHandler ["http-nio-10140"]
+[ERROR] 2021-09-24T16:48:47,268 [main] StandardService - Failed to start connector [Connector[HTTP/1.1-10140]]
+org.apache.catalina.LifecycleException: Failed to start component [Connector[HTTP/1.1-10140]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225) [tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:256) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:198) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:300) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:162) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:553) [spring-context-5.0.6.RELEASE.jar:5.0.6.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:759) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:395) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:327) [spring-boot-2.0.2.RELEASE.jar:2.0.2.RELEASE]
+	at net.corda.parsedata.client.webserver.Starter.main(Starter.java:55) [main/:?]
+Caused by: org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1020) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	... 11 more
+Caused by: java.net.BindException: Address already in use
+	at sun.nio.ch.Net.bind0(Native Method) ~[?:1.8.0_271]
+	at sun.nio.ch.Net.bind(Net.java:444) ~[?:1.8.0_271]
+	at sun.nio.ch.Net.bind(Net.java:436) ~[?:1.8.0_271]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:225) ~[?:1.8.0_271]
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74) ~[?:1.8.0_271]
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1150) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:591) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1018) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	... 11 more
+[INFO ] 2021-09-24T16:48:47,340 [main] Http11NioProtocol - Pausing ProtocolHandler ["http-nio-10140"]
+[INFO ] 2021-09-24T16:48:47,341 [main] StandardService - Stopping service [Tomcat]
+[INFO ] 2021-09-24T16:48:47,370 [main] LifecycleBase - The stop() method was called on component [StandardServer[-1]] after stop() had already been called. The second call will be ignored.
+[INFO ] 2021-09-24T16:48:47,371 [main] Http11NioProtocol - Stopping ProtocolHandler ["http-nio-10140"]
+[INFO ] 2021-09-24T16:48:47,371 [main] Http11NioProtocol - Destroying ProtocolHandler ["http-nio-10140"]
+[INFO ] 2021-09-24T16:48:47,387 [main] ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[ERROR] 2021-09-24T16:48:47,393 [main] LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 10140 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 10140, or configure this application to listen on another port.
+
+[INFO ] 2021-09-24T16:48:47,414 [main] AnnotationConfigServletWebServerApplicationContext - Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@32c726ee: startup date [Fri Sep 24 12:48:23 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:48:47,428 [main] AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2021-09-24T16:49:21,792 [Thread-3] AnnotationConfigServletWebServerApplicationContext - Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@32c726ee: startup date [Thu Sep 23 14:42:10 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:49:21,921 [Thread-3] AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2021-09-24T16:49:24,921 [main] Starter - Starting Starter on MacBook-Pro-2.local with PID 31103 (/Users/sajinsamuel/Desktop/github-repositories/R3PaidPilotBlockchain/clients/build/classes/java/main started by sajinsamuel in /Users/sajinsamuel/Desktop/github-repositories/R3PaidPilotBlockchain/clients)
+[INFO ] 2021-09-24T16:49:24,940 [main] Starter - No active profile set, falling back to default profiles: default
+[INFO ] 2021-09-24T16:49:25,154 [main] AnnotationConfigServletWebServerApplicationContext - Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@22f31dec: startup date [Fri Sep 24 12:49:25 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:49:28,883 [main] Starter - Starting Starter on MacBook-Pro-2.local with PID 31111 (/Users/sajinsamuel/Desktop/github-repositories/R3PaidPilotBlockchain/clients/build/classes/java/main started by sajinsamuel in /Users/sajinsamuel/Desktop/github-repositories/R3PaidPilotBlockchain/clients)
+[INFO ] 2021-09-24T16:49:28,895 [main] Starter - No active profile set, falling back to default profiles: default
+[INFO ] 2021-09-24T16:49:29,143 [main] AnnotationConfigServletWebServerApplicationContext - Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@22f31dec: startup date [Fri Sep 24 12:49:29 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:49:29,764 [main] TomcatWebServer - Tomcat initialized with port(s): 10090 (http)
+[INFO ] 2021-09-24T16:49:29,813 [main] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-10090"]
+[INFO ] 2021-09-24T16:49:29,867 [main] StandardService - Starting service [Tomcat]
+[INFO ] 2021-09-24T16:49:29,868 [main] StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.31
+[INFO ] 2021-09-24T16:49:29,910 [localhost-startStop-1] AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/sajinsamuel/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+[INFO ] 2021-09-24T16:49:30,155 [localhost-startStop-1] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2021-09-24T16:49:30,156 [localhost-startStop-1] ContextLoader - Root WebApplicationContext: initialization completed in 5028 ms
+[INFO ] 2021-09-24T16:49:30,785 [localhost-startStop-1] ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+[INFO ] 2021-09-24T16:49:30,802 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+[INFO ] 2021-09-24T16:49:30,803 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+[INFO ] 2021-09-24T16:49:30,803 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+[INFO ] 2021-09-24T16:49:30,803 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+[INFO ] 2021-09-24T16:49:31,257 [main] SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:49:32,280 [main] RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@22f31dec: startup date [Fri Sep 24 12:49:25 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:49:32,644 [main] RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+[INFO ] 2021-09-24T16:49:32,646 [main] RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+[INFO ] 2021-09-24T16:49:32,836 [main] SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:49:32,836 [main] SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:49:33,108 [main] WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+[INFO ] 2021-09-24T16:49:33,545 [main] TomcatWebServer - Tomcat initialized with port(s): 10080 (http)
+[INFO ] 2021-09-24T16:49:33,598 [main] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-10080"]
+[INFO ] 2021-09-24T16:49:33,781 [main] StandardService - Starting service [Tomcat]
+[INFO ] 2021-09-24T16:49:33,782 [main] StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.31
+[INFO ] 2021-09-24T16:49:33,798 [localhost-startStop-1] AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/sajinsamuel/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+[INFO ] 2021-09-24T16:49:34,315 [main] AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2021-09-24T16:49:34,407 [localhost-startStop-1] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2021-09-24T16:49:34,410 [localhost-startStop-1] ContextLoader - Root WebApplicationContext: initialization completed in 5272 ms
+[INFO ] 2021-09-24T16:49:34,430 [main] Http11NioProtocol - Starting ProtocolHandler ["http-nio-10090"]
+[INFO ] 2021-09-24T16:49:34,524 [main] NioSelectorPool - Using a shared selector for servlet write/read
+[INFO ] 2021-09-24T16:49:34,558 [main] TomcatWebServer - Tomcat started on port(s): 10090 (http) with context path ''
+[INFO ] 2021-09-24T16:49:34,651 [main] Starter - Started Starter in 12.183 seconds (JVM running for 14.663)
+[INFO ] 2021-09-24T16:49:34,953 [main] Starter - Starting Starter on MacBook-Pro-2.local with PID 31150 (/Users/sajinsamuel/Desktop/github-repositories/R3PaidPilotBlockchain/clients/build/classes/java/main started by sajinsamuel in /Users/sajinsamuel/Desktop/github-repositories/R3PaidPilotBlockchain/clients)
+[INFO ] 2021-09-24T16:49:34,962 [main] Starter - No active profile set, falling back to default profiles: default
+[INFO ] 2021-09-24T16:49:35,235 [main] AnnotationConfigServletWebServerApplicationContext - Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@22f31dec: startup date [Fri Sep 24 12:49:35 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:49:35,283 [localhost-startStop-1] ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+[INFO ] 2021-09-24T16:49:35,344 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+[INFO ] 2021-09-24T16:49:35,346 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+[INFO ] 2021-09-24T16:49:35,346 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+[INFO ] 2021-09-24T16:49:35,347 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+[INFO ] 2021-09-24T16:49:41,668 [main] TomcatWebServer - Tomcat initialized with port(s): 10070 (http)
+[INFO ] 2021-09-24T16:49:41,722 [main] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-10070"]
+[INFO ] 2021-09-24T16:49:41,757 [main] StandardService - Starting service [Tomcat]
+[INFO ] 2021-09-24T16:49:41,758 [main] StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.31
+[INFO ] 2021-09-24T16:49:41,785 [localhost-startStop-1] AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/sajinsamuel/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+[INFO ] 2021-09-24T16:49:41,967 [localhost-startStop-1] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2021-09-24T16:49:41,967 [localhost-startStop-1] ContextLoader - Root WebApplicationContext: initialization completed in 6741 ms
+[INFO ] 2021-09-24T16:49:42,459 [localhost-startStop-1] ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+[INFO ] 2021-09-24T16:49:42,478 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+[INFO ] 2021-09-24T16:49:42,479 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+[INFO ] 2021-09-24T16:49:42,480 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+[INFO ] 2021-09-24T16:49:42,481 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+[INFO ] 2021-09-24T16:49:42,791 [main] RPCClient - Startup took 3837 msec
+[INFO ] 2021-09-24T16:49:45,328 [main] SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:49:46,047 [main] RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@22f31dec: startup date [Fri Sep 24 12:49:29 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:49:46,640 [main] RequestMappingHandlerMapping - Mapped "{[/servertime],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.serverTime()
+[INFO ] 2021-09-24T16:49:46,642 [main] RequestMappingHandlerMapping - Mapped "{[/identities],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.identities()
+[INFO ] 2021-09-24T16:49:46,643 [main] RequestMappingHandlerMapping - Mapped "{[/platformversion],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.platformVersion()
+[INFO ] 2021-09-24T16:49:46,644 [main] RequestMappingHandlerMapping - Mapped "{[/peers],methods=[GET],produces=[application/json]}" onto public java.util.HashMap<java.lang.String, java.util.List<java.lang.String>> net.corda.parsedata.client.webserver.Controller.getPeers()
+[INFO ] 2021-09-24T16:49:46,645 [main] RequestMappingHandlerMapping - Mapped "{[/notaries],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.notaries()
+[INFO ] 2021-09-24T16:49:46,646 [main] RequestMappingHandlerMapping - Mapped "{[/flows],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.flows()
+[INFO ] 2021-09-24T16:49:46,646 [main] RequestMappingHandlerMapping - Mapped "{[/me],methods=[GET],produces=[application/json]}" onto private java.util.HashMap<java.lang.String, java.lang.String> net.corda.parsedata.client.webserver.Controller.whoami()
+[INFO ] 2021-09-24T16:49:46,647 [main] RequestMappingHandlerMapping - Mapped "{[/issueTokens],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.issueTokens(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:49:46,655 [main] RequestMappingHandlerMapping - Mapped "{[/createAccount],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.createNewAccount(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:49:46,656 [main] RequestMappingHandlerMapping - Mapped "{[/shareAccountInfo],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.shareAccountTo(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:49:46,656 [main] RequestMappingHandlerMapping - Mapped "{[/sendEnergyTokens],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.sendEnergyTokens(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:49:46,657 [main] RequestMappingHandlerMapping - Mapped "{[/status],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.status()
+[INFO ] 2021-09-24T16:49:46,658 [main] RequestMappingHandlerMapping - Mapped "{[/addresses],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.addresses()
+[INFO ] 2021-09-24T16:49:46,658 [main] RequestMappingHandlerMapping - Mapped "{[/states],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.states()
+[INFO ] 2021-09-24T16:49:46,659 [main] RequestMappingHandlerMapping - Mapped "{[/accountTokenBalance],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.getAccountBalance(java.lang.String) throws java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:49:46,660 [main] RequestMappingHandlerMapping - Mapped "{[/sendfromaccount],methods=[POST],consumes=[application/json],produces=[text/plain]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.a2aTokenTransferFlow(java.lang.String) throws java.io.IOException,java.lang.InterruptedException,java.util.concurrent.ExecutionException
+[INFO ] 2021-09-24T16:49:46,660 [main] RequestMappingHandlerMapping - Mapped "{[/networkmap],methods=[GET],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> net.corda.parsedata.client.webserver.Controller.getNodeList()
+[INFO ] 2021-09-24T16:49:46,665 [main] RequestMappingHandlerMapping - Mapped "{[/nodeTokenBalance],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.getNodeBalance()
+[INFO ] 2021-09-24T16:49:46,667 [main] RequestMappingHandlerMapping - Mapped "{[/transactionDetails],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.getTransactionDetails(java.lang.String) throws java.io.IOException,java.lang.NoSuchFieldException,java.sql.SQLException,java.lang.IllegalAccessException
+[INFO ] 2021-09-24T16:49:46,686 [main] RequestMappingHandlerMapping - Mapped "{[/queryByDataHash],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.queryByDataHash(java.lang.String) throws java.lang.NoSuchFieldException,java.io.IOException
+[INFO ] 2021-09-24T16:49:46,703 [main] RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+[INFO ] 2021-09-24T16:49:46,704 [main] RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+[INFO ] 2021-09-24T16:49:46,835 [main] SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:49:46,838 [main] SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:49:47,065 [main] WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+[INFO ] 2021-09-24T16:49:47,689 [main] AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2021-09-24T16:49:47,715 [main] Http11NioProtocol - Starting ProtocolHandler ["http-nio-10080"]
+[INFO ] 2021-09-24T16:49:47,764 [main] NioSelectorPool - Using a shared selector for servlet write/read
+[INFO ] 2021-09-24T16:49:47,822 [main] TomcatWebServer - Tomcat started on port(s): 10080 (http) with context path ''
+[INFO ] 2021-09-24T16:49:47,864 [main] Starter - Started Starter in 21.646 seconds (JVM running for 25.26)
+[INFO ] 2021-09-24T16:49:48,070 [main] Starter - Starting Starter on MacBook-Pro-2.local with PID 31195 (/Users/sajinsamuel/Desktop/github-repositories/R3PaidPilotBlockchain/clients/build/classes/java/main started by sajinsamuel in /Users/sajinsamuel/Desktop/github-repositories/R3PaidPilotBlockchain/clients)
+[INFO ] 2021-09-24T16:49:48,078 [main] Starter - No active profile set, falling back to default profiles: default
+[INFO ] 2021-09-24T16:49:48,264 [main] AnnotationConfigServletWebServerApplicationContext - Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@22f31dec: startup date [Fri Sep 24 12:49:48 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:49:48,865 [main] RPCClient - Startup took 3812 msec
+[INFO ] 2021-09-24T16:49:49,264 [main] SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:49:49,831 [main] RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@22f31dec: startup date [Fri Sep 24 12:49:35 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:49:50,078 [main] RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+[INFO ] 2021-09-24T16:49:50,080 [main] RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+[INFO ] 2021-09-24T16:49:50,139 [main] SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:49:50,141 [main] SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:49:50,348 [main] WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+[INFO ] 2021-09-24T16:49:50,834 [main] AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2021-09-24T16:49:50,901 [main] Http11NioProtocol - Starting ProtocolHandler ["http-nio-10070"]
+[INFO ] 2021-09-24T16:49:50,960 [main] NioSelectorPool - Using a shared selector for servlet write/read
+[INFO ] 2021-09-24T16:49:50,989 [main] TomcatWebServer - Tomcat started on port(s): 10070 (http) with context path ''
+[INFO ] 2021-09-24T16:49:50,998 [main] Starter - Started Starter in 19.614 seconds (JVM running for 22.547)
+[INFO ] 2021-09-24T16:49:52,003 [main] TomcatWebServer - Tomcat initialized with port(s): 10120 (http)
+[INFO ] 2021-09-24T16:49:52,053 [main] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-10120"]
+[INFO ] 2021-09-24T16:49:52,080 [main] StandardService - Starting service [Tomcat]
+[INFO ] 2021-09-24T16:49:52,085 [main] StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.31
+[INFO ] 2021-09-24T16:49:52,128 [localhost-startStop-1] AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/sajinsamuel/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+[INFO ] 2021-09-24T16:49:52,534 [localhost-startStop-1] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2021-09-24T16:49:52,535 [localhost-startStop-1] ContextLoader - Root WebApplicationContext: initialization completed in 4279 ms
+[INFO ] 2021-09-24T16:49:52,863 [main] Starter - Starting Starter on MacBook-Pro-2.local with PID 31204 (/Users/sajinsamuel/Desktop/github-repositories/R3PaidPilotBlockchain/clients/build/classes/java/main started by sajinsamuel in /Users/sajinsamuel/Desktop/github-repositories/R3PaidPilotBlockchain/clients)
+[INFO ] 2021-09-24T16:49:52,887 [main] Starter - No active profile set, falling back to default profiles: default
+[INFO ] 2021-09-24T16:49:53,104 [localhost-startStop-1] ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+[INFO ] 2021-09-24T16:49:53,154 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+[INFO ] 2021-09-24T16:49:53,154 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+[INFO ] 2021-09-24T16:49:53,155 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+[INFO ] 2021-09-24T16:49:53,155 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+[INFO ] 2021-09-24T16:49:53,204 [main] AnnotationConfigServletWebServerApplicationContext - Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@22f31dec: startup date [Fri Sep 24 12:49:53 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:49:58,173 [main] TomcatWebServer - Tomcat initialized with port(s): 10140 (http)
+[INFO ] 2021-09-24T16:49:58,219 [main] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-10140"]
+[INFO ] 2021-09-24T16:49:58,247 [main] StandardService - Starting service [Tomcat]
+[INFO ] 2021-09-24T16:49:58,251 [main] StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.31
+[INFO ] 2021-09-24T16:49:58,284 [localhost-startStop-1] AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/sajinsamuel/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+[INFO ] 2021-09-24T16:49:58,499 [main] Starter - Starting Starter on MacBook-Pro-2.local with PID 31208 (/Users/sajinsamuel/Desktop/github-repositories/R3PaidPilotBlockchain/clients/build/classes/java/main started by sajinsamuel in /Users/sajinsamuel/Desktop/github-repositories/R3PaidPilotBlockchain/clients)
+[INFO ] 2021-09-24T16:49:58,531 [main] Starter - No active profile set, falling back to default profiles: default
+[INFO ] 2021-09-24T16:49:58,567 [localhost-startStop-1] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2021-09-24T16:49:58,568 [localhost-startStop-1] ContextLoader - Root WebApplicationContext: initialization completed in 5374 ms
+[INFO ] 2021-09-24T16:49:58,739 [main] AnnotationConfigServletWebServerApplicationContext - Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@32c726ee: startup date [Fri Sep 24 12:49:58 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:49:59,323 [localhost-startStop-1] ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+[INFO ] 2021-09-24T16:49:59,332 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+[INFO ] 2021-09-24T16:49:59,334 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+[INFO ] 2021-09-24T16:49:59,335 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+[INFO ] 2021-09-24T16:49:59,335 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+[INFO ] 2021-09-24T16:49:59,717 [main] RPCClient - Startup took 3241 msec
+[INFO ] 2021-09-24T16:50:02,446 [main] SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:50:02,681 [main] RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@22f31dec: startup date [Fri Sep 24 12:49:48 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:50:02,808 [main] TomcatWebServer - Tomcat initialized with port(s): 10150 (http)
+[INFO ] 2021-09-24T16:50:02,839 [main] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-10150"]
+[INFO ] 2021-09-24T16:50:02,856 [main] StandardService - Starting service [Tomcat]
+[INFO ] 2021-09-24T16:50:02,857 [main] StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.31
+[INFO ] 2021-09-24T16:50:02,871 [localhost-startStop-1] AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/sajinsamuel/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+[INFO ] 2021-09-24T16:50:03,039 [main] RequestMappingHandlerMapping - Mapped "{[/servertime],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.serverTime()
+[INFO ] 2021-09-24T16:50:03,041 [main] RequestMappingHandlerMapping - Mapped "{[/identities],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.identities()
+[INFO ] 2021-09-24T16:50:03,042 [main] RequestMappingHandlerMapping - Mapped "{[/platformversion],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.platformVersion()
+[INFO ] 2021-09-24T16:50:03,043 [main] RequestMappingHandlerMapping - Mapped "{[/peers],methods=[GET],produces=[application/json]}" onto public java.util.HashMap<java.lang.String, java.util.List<java.lang.String>> net.corda.parsedata.client.webserver.Controller.getPeers()
+[INFO ] 2021-09-24T16:50:03,044 [main] RequestMappingHandlerMapping - Mapped "{[/notaries],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.notaries()
+[INFO ] 2021-09-24T16:50:03,045 [main] RequestMappingHandlerMapping - Mapped "{[/flows],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.flows()
+[INFO ] 2021-09-24T16:50:03,046 [main] RequestMappingHandlerMapping - Mapped "{[/me],methods=[GET],produces=[application/json]}" onto private java.util.HashMap<java.lang.String, java.lang.String> net.corda.parsedata.client.webserver.Controller.whoami()
+[INFO ] 2021-09-24T16:50:03,047 [main] RequestMappingHandlerMapping - Mapped "{[/issueTokens],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.issueTokens(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:50:03,048 [main] RequestMappingHandlerMapping - Mapped "{[/createAccount],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.createNewAccount(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:50:03,049 [main] RequestMappingHandlerMapping - Mapped "{[/shareAccountInfo],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.shareAccountTo(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:50:03,050 [main] RequestMappingHandlerMapping - Mapped "{[/sendEnergyTokens],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.sendEnergyTokens(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:50:03,053 [main] RequestMappingHandlerMapping - Mapped "{[/accountTokenBalance],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.getAccountBalance(java.lang.String) throws java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:50:03,054 [main] RequestMappingHandlerMapping - Mapped "{[/sendfromaccount],methods=[POST],consumes=[application/json],produces=[text/plain]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.a2aTokenTransferFlow(java.lang.String) throws java.io.IOException,java.lang.InterruptedException,java.util.concurrent.ExecutionException
+[INFO ] 2021-09-24T16:50:03,055 [main] RequestMappingHandlerMapping - Mapped "{[/networkmap],methods=[GET],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> net.corda.parsedata.client.webserver.Controller.getNodeList()
+[INFO ] 2021-09-24T16:50:03,056 [main] RequestMappingHandlerMapping - Mapped "{[/nodeTokenBalance],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.getNodeBalance()
+[INFO ] 2021-09-24T16:50:03,057 [main] RequestMappingHandlerMapping - Mapped "{[/transactionDetails],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.getTransactionDetails(java.lang.String) throws java.io.IOException,java.lang.NoSuchFieldException,java.sql.SQLException,java.lang.IllegalAccessException
+[INFO ] 2021-09-24T16:50:03,058 [main] RequestMappingHandlerMapping - Mapped "{[/queryByDataHash],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.queryByDataHash(java.lang.String) throws java.lang.NoSuchFieldException,java.io.IOException
+[INFO ] 2021-09-24T16:50:03,059 [main] RequestMappingHandlerMapping - Mapped "{[/addresses],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.addresses()
+[INFO ] 2021-09-24T16:50:03,059 [main] RequestMappingHandlerMapping - Mapped "{[/states],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.states()
+[INFO ] 2021-09-24T16:50:03,060 [main] RequestMappingHandlerMapping - Mapped "{[/status],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.status()
+[INFO ] 2021-09-24T16:50:03,069 [main] RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+[INFO ] 2021-09-24T16:50:03,080 [main] RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+[INFO ] 2021-09-24T16:50:03,103 [localhost-startStop-1] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2021-09-24T16:50:03,104 [localhost-startStop-1] ContextLoader - Root WebApplicationContext: initialization completed in 4371 ms
+[INFO ] 2021-09-24T16:50:03,123 [main] SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:50:03,123 [main] SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:50:03,206 [main] WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+[INFO ] 2021-09-24T16:50:03,405 [localhost-startStop-1] ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+[INFO ] 2021-09-24T16:50:03,416 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+[INFO ] 2021-09-24T16:50:03,418 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+[INFO ] 2021-09-24T16:50:03,419 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+[INFO ] 2021-09-24T16:50:03,420 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+[INFO ] 2021-09-24T16:50:03,498 [main] AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2021-09-24T16:50:03,528 [main] Http11NioProtocol - Starting ProtocolHandler ["http-nio-10120"]
+[INFO ] 2021-09-24T16:50:03,607 [main] NioSelectorPool - Using a shared selector for servlet write/read
+[INFO ] 2021-09-24T16:50:03,649 [main] TomcatWebServer - Tomcat started on port(s): 10120 (http) with context path ''
+[INFO ] 2021-09-24T16:50:03,661 [main] Starter - Started Starter in 18.249 seconds (JVM running for 21.656)
+[INFO ] 2021-09-24T16:50:04,169 [main] RPCClient - Startup took 1915 msec
+[INFO ] 2021-09-24T16:50:06,100 [main] SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:50:06,263 [main] RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@22f31dec: startup date [Fri Sep 24 12:49:53 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:50:06,569 [main] RequestMappingHandlerMapping - Mapped "{[/status],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.status()
+[INFO ] 2021-09-24T16:50:06,571 [main] RequestMappingHandlerMapping - Mapped "{[/servertime],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.serverTime()
+[INFO ] 2021-09-24T16:50:06,572 [main] RequestMappingHandlerMapping - Mapped "{[/identities],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.identities()
+[INFO ] 2021-09-24T16:50:06,572 [main] RequestMappingHandlerMapping - Mapped "{[/platformversion],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.platformVersion()
+[INFO ] 2021-09-24T16:50:06,573 [main] RequestMappingHandlerMapping - Mapped "{[/peers],methods=[GET],produces=[application/json]}" onto public java.util.HashMap<java.lang.String, java.util.List<java.lang.String>> net.corda.parsedata.client.webserver.Controller.getPeers()
+[INFO ] 2021-09-24T16:50:06,574 [main] RequestMappingHandlerMapping - Mapped "{[/notaries],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.notaries()
+[INFO ] 2021-09-24T16:50:06,574 [main] RequestMappingHandlerMapping - Mapped "{[/flows],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.flows()
+[INFO ] 2021-09-24T16:50:06,575 [main] RequestMappingHandlerMapping - Mapped "{[/me],methods=[GET],produces=[application/json]}" onto private java.util.HashMap<java.lang.String, java.lang.String> net.corda.parsedata.client.webserver.Controller.whoami()
+[INFO ] 2021-09-24T16:50:06,576 [main] RequestMappingHandlerMapping - Mapped "{[/issueTokens],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.issueTokens(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:50:06,577 [main] RequestMappingHandlerMapping - Mapped "{[/createAccount],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.createNewAccount(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:50:06,578 [main] RequestMappingHandlerMapping - Mapped "{[/shareAccountInfo],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.shareAccountTo(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:50:06,579 [main] RequestMappingHandlerMapping - Mapped "{[/sendEnergyTokens],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.sendEnergyTokens(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:50:06,582 [main] RequestMappingHandlerMapping - Mapped "{[/accountTokenBalance],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.getAccountBalance(java.lang.String) throws java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:50:06,584 [main] RequestMappingHandlerMapping - Mapped "{[/sendfromaccount],methods=[POST],consumes=[application/json],produces=[text/plain]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.a2aTokenTransferFlow(java.lang.String) throws java.io.IOException,java.lang.InterruptedException,java.util.concurrent.ExecutionException
+[INFO ] 2021-09-24T16:50:06,586 [main] RequestMappingHandlerMapping - Mapped "{[/networkmap],methods=[GET],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> net.corda.parsedata.client.webserver.Controller.getNodeList()
+[INFO ] 2021-09-24T16:50:06,587 [main] RequestMappingHandlerMapping - Mapped "{[/nodeTokenBalance],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.getNodeBalance()
+[INFO ] 2021-09-24T16:50:06,589 [main] RequestMappingHandlerMapping - Mapped "{[/transactionDetails],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.getTransactionDetails(java.lang.String) throws java.io.IOException,java.lang.NoSuchFieldException,java.sql.SQLException,java.lang.IllegalAccessException
+[INFO ] 2021-09-24T16:50:06,591 [main] RequestMappingHandlerMapping - Mapped "{[/queryByDataHash],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.queryByDataHash(java.lang.String) throws java.lang.NoSuchFieldException,java.io.IOException
+[INFO ] 2021-09-24T16:50:06,593 [main] RequestMappingHandlerMapping - Mapped "{[/addresses],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.addresses()
+[INFO ] 2021-09-24T16:50:06,594 [main] RequestMappingHandlerMapping - Mapped "{[/states],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.states()
+[INFO ] 2021-09-24T16:50:06,599 [main] RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+[INFO ] 2021-09-24T16:50:06,600 [main] RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+[INFO ] 2021-09-24T16:50:06,643 [main] SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:50:06,643 [main] SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:50:06,800 [main] WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+[INFO ] 2021-09-24T16:50:07,380 [main] AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2021-09-24T16:50:07,404 [main] Http11NioProtocol - Starting ProtocolHandler ["http-nio-10140"]
+[INFO ] 2021-09-24T16:50:07,465 [main] NioSelectorPool - Using a shared selector for servlet write/read
+[INFO ] 2021-09-24T16:50:07,488 [main] TomcatWebServer - Tomcat started on port(s): 10140 (http) with context path ''
+[INFO ] 2021-09-24T16:50:07,492 [main] Starter - Started Starter in 17.036 seconds (JVM running for 19.86)
+[INFO ] 2021-09-24T16:50:07,699 [main] RPCClient - Startup took 1804 msec
+[INFO ] 2021-09-24T16:50:08,539 [main] SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:50:08,701 [main] RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@32c726ee: startup date [Fri Sep 24 12:49:58 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:50:08,816 [main] RequestMappingHandlerMapping - Mapped "{[/servertime],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.serverTime()
+[INFO ] 2021-09-24T16:50:08,818 [main] RequestMappingHandlerMapping - Mapped "{[/identities],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.identities()
+[INFO ] 2021-09-24T16:50:08,818 [main] RequestMappingHandlerMapping - Mapped "{[/platformversion],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.platformVersion()
+[INFO ] 2021-09-24T16:50:08,819 [main] RequestMappingHandlerMapping - Mapped "{[/peers],methods=[GET],produces=[application/json]}" onto public java.util.HashMap<java.lang.String, java.util.List<java.lang.String>> net.corda.parsedata.client.webserver.Controller.getPeers()
+[INFO ] 2021-09-24T16:50:08,819 [main] RequestMappingHandlerMapping - Mapped "{[/notaries],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.notaries()
+[INFO ] 2021-09-24T16:50:08,819 [main] RequestMappingHandlerMapping - Mapped "{[/flows],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.flows()
+[INFO ] 2021-09-24T16:50:08,820 [main] RequestMappingHandlerMapping - Mapped "{[/me],methods=[GET],produces=[application/json]}" onto private java.util.HashMap<java.lang.String, java.lang.String> net.corda.parsedata.client.webserver.Controller.whoami()
+[INFO ] 2021-09-24T16:50:08,820 [main] RequestMappingHandlerMapping - Mapped "{[/issueTokens],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.issueTokens(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:50:08,821 [main] RequestMappingHandlerMapping - Mapped "{[/createAccount],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.createNewAccount(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:50:08,821 [main] RequestMappingHandlerMapping - Mapped "{[/shareAccountInfo],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.shareAccountTo(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:50:08,822 [main] RequestMappingHandlerMapping - Mapped "{[/sendEnergyTokens],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.sendEnergyTokens(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:50:08,823 [main] RequestMappingHandlerMapping - Mapped "{[/accountTokenBalance],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.getAccountBalance(java.lang.String) throws java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:50:08,823 [main] RequestMappingHandlerMapping - Mapped "{[/sendfromaccount],methods=[POST],consumes=[application/json],produces=[text/plain]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.a2aTokenTransferFlow(java.lang.String) throws java.io.IOException,java.lang.InterruptedException,java.util.concurrent.ExecutionException
+[INFO ] 2021-09-24T16:50:08,824 [main] RequestMappingHandlerMapping - Mapped "{[/networkmap],methods=[GET],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> net.corda.parsedata.client.webserver.Controller.getNodeList()
+[INFO ] 2021-09-24T16:50:08,824 [main] RequestMappingHandlerMapping - Mapped "{[/nodeTokenBalance],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.getNodeBalance()
+[INFO ] 2021-09-24T16:50:08,825 [main] RequestMappingHandlerMapping - Mapped "{[/transactionDetails],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.getTransactionDetails(java.lang.String) throws java.io.IOException,java.lang.NoSuchFieldException,java.sql.SQLException,java.lang.IllegalAccessException
+[INFO ] 2021-09-24T16:50:08,826 [main] RequestMappingHandlerMapping - Mapped "{[/queryByDataHash],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.queryByDataHash(java.lang.String) throws java.lang.NoSuchFieldException,java.io.IOException
+[INFO ] 2021-09-24T16:50:08,826 [main] RequestMappingHandlerMapping - Mapped "{[/states],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.states()
+[INFO ] 2021-09-24T16:50:08,827 [main] RequestMappingHandlerMapping - Mapped "{[/status],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.status()
+[INFO ] 2021-09-24T16:50:08,827 [main] RequestMappingHandlerMapping - Mapped "{[/addresses],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.addresses()
+[INFO ] 2021-09-24T16:50:08,830 [main] RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+[INFO ] 2021-09-24T16:50:08,831 [main] RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+[INFO ] 2021-09-24T16:50:08,857 [main] SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:50:08,857 [main] SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:50:08,917 [main] WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+[INFO ] 2021-09-24T16:50:09,114 [main] AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2021-09-24T16:50:09,129 [main] Http11NioProtocol - Starting ProtocolHandler ["http-nio-10150"]
+[INFO ] 2021-09-24T16:50:09,147 [main] NioSelectorPool - Using a shared selector for servlet write/read
+[INFO ] 2021-09-24T16:50:09,162 [main] TomcatWebServer - Tomcat started on port(s): 10150 (http) with context path ''
+[INFO ] 2021-09-24T16:50:09,166 [main] Starter - Started Starter in 12.894 seconds (JVM running for 17.279)
+[INFO ] 2021-09-24T16:53:16,075 [http-nio-10090-exec-1] [/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+[INFO ] 2021-09-24T16:53:16,077 [http-nio-10090-exec-1] DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization started
+[INFO ] 2021-09-24T16:53:16,095 [http-nio-10090-exec-1] DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization completed in 18 ms
+[INFO ] 2021-09-24T16:56:18,685 [Thread-3] AnnotationConfigServletWebServerApplicationContext - Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@22f31dec: startup date [Fri Sep 24 12:49:25 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:56:18,689 [Thread-3] AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[INFO ] 2021-09-24T16:56:27,623 [main] Starter - Starting Starter on MacBook-Pro-2.local with PID 31326 (/Users/sajinsamuel/Desktop/github-repositories/R3PaidPilotBlockchain/clients/build/classes/java/main started by sajinsamuel in /Users/sajinsamuel/Desktop/github-repositories/R3PaidPilotBlockchain/clients)
+[INFO ] 2021-09-24T16:56:27,634 [main] Starter - No active profile set, falling back to default profiles: default
+[INFO ] 2021-09-24T16:56:27,673 [main] AnnotationConfigServletWebServerApplicationContext - Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@22f31dec: startup date [Fri Sep 24 12:56:27 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:56:28,773 [main] TomcatWebServer - Tomcat initialized with port(s): 10090 (http)
+[INFO ] 2021-09-24T16:56:28,787 [main] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-10090"]
+[INFO ] 2021-09-24T16:56:28,797 [main] StandardService - Starting service [Tomcat]
+[INFO ] 2021-09-24T16:56:28,798 [main] StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.31
+[INFO ] 2021-09-24T16:56:28,806 [localhost-startStop-1] AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/sajinsamuel/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+[INFO ] 2021-09-24T16:56:28,925 [localhost-startStop-1] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2021-09-24T16:56:28,925 [localhost-startStop-1] ContextLoader - Root WebApplicationContext: initialization completed in 1254 ms
+[INFO ] 2021-09-24T16:56:29,079 [localhost-startStop-1] ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+[INFO ] 2021-09-24T16:56:29,086 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+[INFO ] 2021-09-24T16:56:29,087 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+[INFO ] 2021-09-24T16:56:29,088 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+[INFO ] 2021-09-24T16:56:29,088 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+[INFO ] 2021-09-24T16:56:31,235 [main] RPCClient - Startup took 874 msec
+[INFO ] 2021-09-24T16:56:31,683 [main] SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:56:31,808 [main] RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@22f31dec: startup date [Fri Sep 24 12:56:27 EDT 2021]; root of context hierarchy
+[INFO ] 2021-09-24T16:56:32,003 [main] RequestMappingHandlerMapping - Mapped "{[/servertime],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.serverTime()
+[INFO ] 2021-09-24T16:56:32,004 [main] RequestMappingHandlerMapping - Mapped "{[/identities],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.identities()
+[INFO ] 2021-09-24T16:56:32,005 [main] RequestMappingHandlerMapping - Mapped "{[/platformversion],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.platformVersion()
+[INFO ] 2021-09-24T16:56:32,005 [main] RequestMappingHandlerMapping - Mapped "{[/peers],methods=[GET],produces=[application/json]}" onto public java.util.HashMap<java.lang.String, java.util.List<java.lang.String>> net.corda.parsedata.client.webserver.Controller.getPeers()
+[INFO ] 2021-09-24T16:56:32,005 [main] RequestMappingHandlerMapping - Mapped "{[/notaries],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.notaries()
+[INFO ] 2021-09-24T16:56:32,006 [main] RequestMappingHandlerMapping - Mapped "{[/flows],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.flows()
+[INFO ] 2021-09-24T16:56:32,006 [main] RequestMappingHandlerMapping - Mapped "{[/me],methods=[GET],produces=[application/json]}" onto private java.util.HashMap<java.lang.String, java.lang.String> net.corda.parsedata.client.webserver.Controller.whoami()
+[INFO ] 2021-09-24T16:56:32,007 [main] RequestMappingHandlerMapping - Mapped "{[/issueTokens],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.issueTokens(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:56:32,007 [main] RequestMappingHandlerMapping - Mapped "{[/createAccount],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.createNewAccount(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:56:32,008 [main] RequestMappingHandlerMapping - Mapped "{[/shareAccountInfo],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.shareAccountTo(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:56:32,008 [main] RequestMappingHandlerMapping - Mapped "{[/sendEnergyTokens],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.sendEnergyTokens(java.lang.String) throws java.lang.IllegalArgumentException,java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:56:32,009 [main] RequestMappingHandlerMapping - Mapped "{[/accountTokenBalance],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.getAccountBalance(java.lang.String) throws java.io.IOException,java.util.concurrent.ExecutionException,java.lang.InterruptedException
+[INFO ] 2021-09-24T16:56:32,009 [main] RequestMappingHandlerMapping - Mapped "{[/sendfromaccount],methods=[POST],consumes=[application/json],produces=[text/plain]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.a2aTokenTransferFlow(java.lang.String) throws java.io.IOException,java.lang.InterruptedException,java.util.concurrent.ExecutionException
+[INFO ] 2021-09-24T16:56:32,009 [main] RequestMappingHandlerMapping - Mapped "{[/networkmap],methods=[GET],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> net.corda.parsedata.client.webserver.Controller.getNodeList()
+[INFO ] 2021-09-24T16:56:32,010 [main] RequestMappingHandlerMapping - Mapped "{[/nodeTokenBalance],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.getNodeBalance()
+[INFO ] 2021-09-24T16:56:32,010 [main] RequestMappingHandlerMapping - Mapped "{[/transactionDetails],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.getTransactionDetails(java.lang.String) throws java.io.IOException,java.lang.NoSuchFieldException,java.sql.SQLException,java.lang.IllegalAccessException
+[INFO ] 2021-09-24T16:56:32,010 [main] RequestMappingHandlerMapping - Mapped "{[/queryByDataHash],methods=[GET],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> net.corda.parsedata.client.webserver.Controller.queryByDataHash(java.lang.String) throws java.lang.NoSuchFieldException,java.io.IOException
+[INFO ] 2021-09-24T16:56:32,011 [main] RequestMappingHandlerMapping - Mapped "{[/states],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.states()
+[INFO ] 2021-09-24T16:56:32,011 [main] RequestMappingHandlerMapping - Mapped "{[/addresses],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.addresses()
+[INFO ] 2021-09-24T16:56:32,011 [main] RequestMappingHandlerMapping - Mapped "{[/status],methods=[GET],produces=[text/plain]}" onto private java.lang.String net.corda.parsedata.client.webserver.Controller.status()
+[INFO ] 2021-09-24T16:56:32,013 [main] RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+[INFO ] 2021-09-24T16:56:32,013 [main] RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+[INFO ] 2021-09-24T16:56:32,044 [main] SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:56:32,044 [main] SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2021-09-24T16:56:32,099 [main] WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+[INFO ] 2021-09-24T16:56:32,268 [main] AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2021-09-24T16:56:32,281 [main] Http11NioProtocol - Starting ProtocolHandler ["http-nio-10090"]
+[INFO ] 2021-09-24T16:56:32,301 [main] NioSelectorPool - Using a shared selector for servlet write/read
+[INFO ] 2021-09-24T16:56:32,313 [main] TomcatWebServer - Tomcat started on port(s): 10090 (http) with context path ''
+[INFO ] 2021-09-24T16:56:32,318 [main] Starter - Started Starter in 5.509 seconds (JVM running for 6.212)
+[INFO ] 2021-09-24T16:56:41,134 [http-nio-10090-exec-2] [/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+[INFO ] 2021-09-24T16:56:41,134 [http-nio-10090-exec-2] DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization started
+[INFO ] 2021-09-24T16:56:41,153 [http-nio-10090-exec-2] DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization completed in 19 ms
+[INFO ] 2021-09-24T16:57:09,909 [http-nio-10080-exec-1] [/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+[INFO ] 2021-09-24T16:57:09,910 [http-nio-10080-exec-1] DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization started
+[INFO ] 2021-09-24T16:57:09,934 [http-nio-10080-exec-1] DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization completed in 24 ms
+[INFO ] 2021-09-24T16:58:12,555 [http-nio-10150-exec-2] [/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+[INFO ] 2021-09-24T16:58:12,556 [http-nio-10150-exec-2] DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization started
+[INFO ] 2021-09-24T16:58:12,578 [http-nio-10150-exec-2] DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization completed in 22 ms
+[WARN ] 2021-09-24T19:36:08,471 [Thread-4 (ActiveMQ-client-factory-threads-312470853)] RPCClientProxyHandler - Terminating observables.
+[WARN ] 2021-09-24T19:36:08,713 [Thread-4 (ActiveMQ-client-factory-threads-65310008)] RPCClientProxyHandler - Terminating observables.
+[WARN ] 2021-09-24T19:36:08,737 [Thread-1 (ActiveMQ-client-factory-threads-17808347)] RPCClientProxyHandler - Terminating observables.
+[WARN ] 2021-09-24T19:36:08,766 [Thread-2 (ActiveMQ-client-factory-threads-1881949035)] RPCClientProxyHandler - Terminating observables.
+[INFO ] 2021-09-24T19:36:08,866 [Thread-4 (ActiveMQ-client-factory-threads-312470853)] RPCClientProxyHandler - RPC server available.
+[WARN ] 2021-09-24T19:36:08,897 [Thread-1 (ActiveMQ-client-factory-threads-296974277)] RPCClientProxyHandler - Terminating observables.
+[INFO ] 2021-09-24T19:36:09,026 [Thread-1 (ActiveMQ-client-factory-threads-17808347)] RPCClientProxyHandler - RPC server available.
+[INFO ] 2021-09-24T19:36:09,070 [Thread-4 (ActiveMQ-client-factory-threads-65310008)] RPCClientProxyHandler - RPC server available.
+[INFO ] 2021-09-24T19:36:09,094 [Thread-2 (ActiveMQ-client-factory-threads-1881949035)] RPCClientProxyHandler - RPC server available.
+[INFO ] 2021-09-24T19:36:09,106 [Thread-1 (ActiveMQ-client-factory-threads-296974277)] RPCClientProxyHandler - RPC server available.
+[WARN ] 2021-09-24T19:36:09,023 [Thread-1 (ActiveMQ-client-factory-threads-186075763)] RPCClientProxyHandler - Terminating observables.
+[INFO ] 2021-09-24T19:36:09,300 [Thread-1 (ActiveMQ-client-factory-threads-186075763)] RPCClientProxyHandler - RPC server available.
+[WARN ] 2021-09-24T19:36:20,111 [Thread-1 (ActiveMQ-client-factory-threads-186075763)] RPCClientProxyHandler - Terminating observables.
+[WARN ] 2021-09-24T19:36:20,864 [Thread-4 (ActiveMQ-client-factory-threads-312470853)] RPCClientProxyHandler - Terminating observables.
+[WARN ] 2021-09-24T19:36:21,458 [Thread-2 (ActiveMQ-client-factory-threads-1881949035)] RPCClientProxyHandler - Terminating observables.
+[WARN ] 2021-09-24T19:36:21,544 [Thread-4 (ActiveMQ-client-factory-threads-65310008)] RPCClientProxyHandler - Terminating observables.
+[WARN ] 2021-09-24T19:36:39,053 [Thread-1 (ActiveMQ-client-factory-threads-17808347)] RPCClientProxyHandler - Terminating observables.
+[WARN ] 2021-09-24T19:36:39,128 [Thread-1 (ActiveMQ-client-factory-threads-296974277)] RPCClientProxyHandler - Terminating observables.
+[ERROR] 2021-09-24T20:06:11,652 [http-nio-10150-exec-3] [dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is net.corda.client.rpc.RPCException: RPC server is not available.] with root cause
+net.corda.client.rpc.RPCException: RPC server is not available.
+	at net.corda.client.rpc.internal.RPCClientProxyHandler.invoke(RPCClientProxyHandler.kt:326) ~[corda-rpc-4.8.jar:?]
+	at com.sun.proxy.$Proxy81.vaultQueryByCriteria(Unknown Source) ~[?:?]
+	at net.corda.parsedata.client.webserver.Controller.queryByDataHash(Controller.java:412) ~[main/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_271]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_271]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_271]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_271]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:209) ~[spring-web-5.0.6.RELEASE.jar:5.0.6.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:136) ~[spring-web-5.0.6.RELEASE.jar:5.0.6.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102) ~[spring-webmvc-5.0.6.RELEASE.jar:5.0.6.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:877) ~[spring-webmvc-5.0.6.RELEASE.jar:5.0.6.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:783) ~[spring-webmvc-5.0.6.RELEASE.jar:5.0.6.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.0.6.RELEASE.jar:5.0.6.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:991) ~[spring-webmvc-5.0.6.RELEASE.jar:5.0.6.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:925) ~[spring-webmvc-5.0.6.RELEASE.jar:5.0.6.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:974) ~[spring-webmvc-5.0.6.RELEASE.jar:5.0.6.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:866) ~[spring-webmvc-5.0.6.RELEASE.jar:5.0.6.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:851) ~[spring-webmvc-5.0.6.RELEASE.jar:5.0.6.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52) ~[tomcat-embed-websocket-8.5.31.jar:8.5.31]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) ~[spring-web-5.0.6.RELEASE.jar:5.0.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.0.6.RELEASE.jar:5.0.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:109) ~[spring-web-5.0.6.RELEASE.jar:5.0.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.0.6.RELEASE.jar:5.0.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81) ~[spring-web-5.0.6.RELEASE.jar:5.0.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.0.6.RELEASE.jar:5.0.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) ~[spring-web-5.0.6.RELEASE.jar:5.0.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.0.6.RELEASE.jar:5.0.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198) [tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:496) [tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140) [tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81) [tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87) [tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342) [tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803) [tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790) [tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1468) [tomcat-embed-core-8.5.31.jar:8.5.31]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-8.5.31.jar:8.5.31]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_271]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-8.5.31.jar:8.5.31]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_271]
